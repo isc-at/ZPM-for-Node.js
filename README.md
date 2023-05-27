@@ -33,7 +33,7 @@ Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installi
 
 Clone/git pull this repo into any local directory
 ```
-$ git clone https://github.com/rcemper/Using-ZPM-for-Node.js 
+$ git clone https://github.com/isc-at/ZPM-for-Node.js 
 ```
 
 Open the terminal in this directory and run:
